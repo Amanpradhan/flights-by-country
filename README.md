@@ -13,8 +13,8 @@ A FastAPI web application that shows incoming flights by country for any airport
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/Amanpradhan/flights-by-country
+cd flights-by-country
 ```
 
 2. Create and activate a virtual environment:
