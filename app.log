@@ -1,0 +1,6 @@
+2024-12-22 19:24:00,106 - app.main - INFO - Processing request for airport: SIN
+2024-12-22 19:24:13,754 - httpx - INFO - HTTP Request: GET https://api.flightapi.io/compschedule/6767f8f6fe68fee9ae44bee1?mode=arrivals&day=1&iata=sin "HTTP/1.1 200 OK"
+2024-12-22 19:25:21,135 - app.main - INFO - Processing request for airport: SIN
+2024-12-22 19:25:37,453 - httpx - INFO - HTTP Request: GET https://api.flightapi.io/compschedule/6767f8f6fe68fee9ae44bee1?mode=arrivals&day=1&iata=sin "HTTP/1.1 200 OK"
+2024-12-22 19:25:39,747 - app.main - INFO - Processing request for airport: SIN
+2024-12-22 19:25:53,676 - httpx - INFO - HTTP Request: GET https://api.flightapi.io/compschedule/6767f8f6fe68fee9ae44bee1?mode=arrivals&day=1&iata=sin "HTTP/1.1 200 OK"
